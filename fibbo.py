@@ -1,10 +1,11 @@
-# Program to display the Fibonacci series upto nth term
+# Program to display the Fibonacci series upto nth term 
 
 n = int(input())
 
 
 n1, n2 = 0, 1
 count = 0
+
 
 
 if n <= 0:
